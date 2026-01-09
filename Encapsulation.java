@@ -21,6 +21,26 @@ class Student {
     public int getAge() {
         return age;
     }
+
+    public void setid(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setid'");
+    }
+
+    public void setgender(String gender) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setgender'");
+    }
+
+    public void setcourse(String course) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setcourse'");
+    }
+
+    public void setmarks(int marks) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setmarks'");
+    }
 }
 
 public class Encapsulation{
